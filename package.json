@@ -4,7 +4,14 @@
   "description": "Not siri but liri",
   "main": "index.js",
   "dependencies": {
-    "imdb-api": "^4.0.2"
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "imdb-api": "^4.0.2",
+    "keys.js": "^1.0.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "spotify": "^0.3.0",
+    "spotify-web-api-js": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
