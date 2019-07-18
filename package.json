@@ -1,0 +1,23 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Not siri but liri",
+  "main": "index.js",
+  "dependencies": {
+    "imdb-api": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamSukhwal/Liri-node-app.git"
+  },
+  "author": "Shivam Sukhwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamSukhwal/Liri-node-app/issues"
+  },
+  "homepage": "https://github.com/ShivamSukhwal/Liri-node-app#readme"
+}
